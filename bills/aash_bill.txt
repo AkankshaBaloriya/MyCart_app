@@ -1,0 +1,10 @@
+Billing Details for User: aash
+------------------------------
+Product Name: abroidary Jacket
+Price: Rs. 1000.0
+Quantity: 2.0
+--------------
+
+Final Billing Statement:
+Total Price: Rs. 2000.0
+Final Amount to Pay: Rs. 2000.0

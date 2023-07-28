@@ -1,0 +1,15 @@
+Billing Details for User: prati
+------------------------------
+Product Name: Farari
+Price: Rs. 10000.0
+Quantity: 1.0
+--------------
+Product Name: suits
+Price: Rs. 2000.0
+Quantity: 1.0
+--------------
+
+Final Billing Statement:
+Total Price: Rs. 12000.0
+Discount Applied: Rs. 500
+Final Amount to Pay: Rs. 11500.0

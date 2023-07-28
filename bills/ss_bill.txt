@@ -1,0 +1,6 @@
+Final Billing Statement:
+User Name: ss
+Total Price: Rs. 2000.0
+Final Amount to Pay: Rs. 2000.0
+Product Details:
+Product Name: The secret, Price: Rs. 1000.0, Quantity: 2.0
